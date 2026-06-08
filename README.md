@@ -1,4 +1,4 @@
-#  Pharmacy Smart System
+#  Pharmacy-Management-System
 
 A comprehensive Pharmacy Management System designed to streamline pharmacy operations, including inventory control, point-of-sale (POS) processing, customer/doctor management, and prescription tracking.
 
